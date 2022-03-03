@@ -24,7 +24,7 @@
 
 ---
 
-# Table Of Contents
+# Table Of Contents      
 
 * [`Dependencies`](#Dependencies)
 * [`Install`](#Install)
