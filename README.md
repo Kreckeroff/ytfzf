@@ -153,7 +153,7 @@ ytfzf -cO <search>
 * *dwm with swallow patch: Images don't render with ueberzug when looped (ie, option `-l`)*
 * *if thumbnails are not working `.Xauthority` might be causing it. Try deleting it and relogging into your computer.*
 
-# Credits
+# Credits               
 
 | User           | Contributions                             | Donate|
 | :---           | :---                                      | :--- |
