@@ -18,7 +18,7 @@
 <h1 align="center">
 	This is a little showcase
 </h1>
-<p align="center">
+<p align="center">   
 <img src=.assets/ytfzf.gif width="100%">
 </p>
 
