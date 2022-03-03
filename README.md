@@ -147,7 +147,7 @@ ytfzf -cO <search>
 
 ---
 ---
-
+       
 # Bugs
 
 * *dwm with swallow patch: Images don't render with ueberzug when looped (ie, option `-l`)*
