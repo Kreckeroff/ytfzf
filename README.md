@@ -157,7 +157,7 @@ ytfzf -cO <search>
 
 | User           | Contributions                             | Donate|
 | :---           | :---                                      | :--- |
-| Pystardust    | [contributions](credits/pystardust.md)    ||
+| Pystardust    | [contributions](credits/pystardust.md)    ||      
 | Euro20179     | [contributions](credits/euro20179.md)     | [donate](credits/euro20179.md#Donate) |
 | Simonhughxyz  | [contributions](credits/simonhughxyz.md)  ||
 | Jac-Zac       | [contributions](credits/jac-zac.md)       ||
